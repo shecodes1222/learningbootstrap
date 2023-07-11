@@ -1,0 +1,17 @@
+[
+    {"id":1,
+    "name":"Spiderman Into The Spiderverse",
+    "image": "./public/spiderverse1.PNG",
+    "desc": "Teen Miles Morales becomes the Spider-Man of his universe and must join with five spider-powered individuals from other dimensions to stop a threat for all realities."
+    
+},
+{
+    "id":2,
+    "name":"Spiderman Accross the Spiderverse",
+    "image":"./public/spiderverse2.PNG",
+    "desc": "Miles Morales catapults across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. When the heroes clash on how to handle a new threat, Miles must redefine what it means to be a hero."
+
+}
+
+
+]
